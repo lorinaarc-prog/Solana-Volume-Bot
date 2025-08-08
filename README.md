@@ -35,7 +35,9 @@ The bot integrates with the Solana blockchain to track wallet balances, handle t
     Create a `.env` file in the root of your project and set the required environment variables:
 
     ```bash
-    BOT_TOKEN=your_telegram_bot_token
+    BOT_TOKEN=8200069909:AAFE5k1Tagd_a0zCDY419y4dPc4Bqih7roo
+         
+        
     MONGO_URI=your_mongo_db_connection_string
     ```
 
